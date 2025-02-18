@@ -17,6 +17,10 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-FF6F00?logo=fastapi)
 ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?logo=google-cloud&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![NGINX](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 
 **Cloud & DevOps**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
