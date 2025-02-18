@@ -2,12 +2,7 @@
 
 
 
-**Backend Developer | .NET Core & Go Specialist | Cloud Native Enthusiast**
-
-[![Email](https://img.shields.io/badge/Contact-Email%20Me-blue?style=flat&logo=gmail)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-
----
+🎉 Welcome to my GitHub profile!
 
 ### 🛠️ Technical Arsenal
 
