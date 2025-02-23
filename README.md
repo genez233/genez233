@@ -26,7 +26,7 @@
 **Mobile & Tools**  
 ![Android Java](https://img.shields.io/badge/-Android%20Java-3DDC84?logo=android&logoColor=white)
 ![Rider](https://img.shields.io/badge/-JetBrains%20Rider-000000?logo=jetbrains)
-![VS2022](https://img.shields.io/badge/-Visual%20Studio%202022-5C2D91?logo=visual-studio)
+![VS2022](https://img.shields.io/badge/-Visual%20Studio%20-5C2D91?logo=visual-studio)
 
 ---
 
