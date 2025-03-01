@@ -16,6 +16,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![NGINX](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![Traefit](https://img.shields.io/badge/Traefit-24A1C1?logo=traefikproxy&logoColor=white)
 
 **Cloud & DevOps**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
@@ -52,6 +53,10 @@
 - 制定硬件通信标准协议，故障率从5%降至0.3%，获公司年度技术创新奖
 
 ---
+
+### Other Projects
+- **日志采集平台：** 个人用的日志集成和追踪 http://logs.zhiyunai.com.cn
+- **我的博客：** https://blog.csdn.net/Canaban
 
 ### 📈 Recent Activity
 
